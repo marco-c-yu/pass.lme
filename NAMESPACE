@@ -1,0 +1,3 @@
+importFrom("stats", "pchisq", "qchisq")
+export(lme.Lb.dist.theta)
+export(pass.lme.CLb.test)
